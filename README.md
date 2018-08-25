@@ -1,6 +1,6 @@
 
 # HAProxy
-[https://portal.victorops.com/client/exotel#/incident/564700/alertDetails]
+
 
 Root cause: 
 
